@@ -8,4 +8,4 @@ The latest release is Proteus Schema 4.0.1 and can be found in the [release sect
 
 
 ## Annotations
-If you want to contribute to the development of the Proteus Schema, please contact the international initatives [FIATECH](http://fiatech.org) or [DEXPI](http://dexpi.org).
+If you want to contribute to the development of the Proteus Schema, please contact the international initatives [DEXPI](http://dexpi.org) or [CII (aka FIATECH)](https://www.construction-institute.org/groups/communities-for-business-advancement/information-management).
