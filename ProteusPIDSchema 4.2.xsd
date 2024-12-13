@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!--
-    Proteus Schema 4.1
+    Proteus Schema 4.2
 
     - changes 4.0.1 -> 4.1
       - <GenericAttribute>
@@ -1280,7 +1280,7 @@
 			</xsd:sequence>
     	<!-- MOD in 4.1: version info 4.0.1 -> 4.1 -->
         <!-- MOD in 4.1.1: version info 4.1 -> 4.1.1 -->
-			<xsd:attribute name="SchemaVersion" type="xsd:string" use="required" fixed="4.1.1" />
+			<xsd:attribute name="SchemaVersion" type="xsd:string" use="required" fixed="4.2" />
       <!-- END OF MOD -->
     	<!-- MOD in 4.1: attributes added -->
       <xsd:attribute name="Application" type="xsd:string" use="optional" />
