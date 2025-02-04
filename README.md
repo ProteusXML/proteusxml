@@ -4,7 +4,7 @@ The schema is based on XSD (https://www.w3.org/XML/Schema) and an provides the s
 Proteus Schema is currently used by a variety of industry companies, software vendors 
 
 ## Latest release
-The latest release is Proteus Schema 4.0.1 and can be found in the [release section](https://github.com/ProteusXML/proteusxml/releases/tag/v4.0.1). 
+The latest release is Proteus Schema 4.2.
 
 
 ## Annotations
